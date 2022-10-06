@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "make": "Koenigsegg",
+        "picture": "cc850 pic",
+        "model": "CC850",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "make": "Ford",
+        "picture": "mustang pic",
+        "model": "Mustang",
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "make": "jeep", 
+        "picture": "wrangler pic",
+        "model": "Wrangler",
+        "likes": 0
+    }
+
+]
